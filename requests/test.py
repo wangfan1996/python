@@ -1,6 +1,6 @@
 import requests, json
 # 传递参数
-payload = {'user':'admin','pwd':'wangfan'}
+payload = {'user':'','pwd':''}
 # 发送请求
 r = requests.post("http://118.89.242.170:8003/login/login",payload)
 # 响应状态玛

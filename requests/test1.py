@@ -8,7 +8,7 @@ data = dictTypeGet['data']
 item = []
 for x in data:
     item.append(list(x.values()))
-db = pymysql.connect("118.89.242.170","root","wflyt5201314!@#","python" )
+db = pymysql.connect("","","" )
 cursor = db.cursor()
 sql = "INSERT INTO user(name,user,pwd,powerpwd,birth,qq,phone) VALUES (%s,%s,%s,%s,%s,%s,%s)"
 try:
