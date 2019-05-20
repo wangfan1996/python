@@ -1,8 +1,8 @@
 from aip import AipImageSearch
 
-APP_ID = '16291996'
-API_KEY = 'YpSjGKiK2xWAKqtn9kLmGQ0x'
-SECRET_KEY = 'g6wqdpMK5thRyZPacwr8TEodZdRj8mHC'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 client = AipImageSearch(APP_ID, API_KEY, SECRET_KEY)
 
