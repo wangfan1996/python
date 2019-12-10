@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29f009b9-c40f-4ace-ad11-3d4b06eba969" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonProject$client.coverage" NAME="client Coverage Results" MODIFIED="1575852870079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other/socket/chat" />
+    <SUITE FILE_PATH="coverage/pythonProject$0019.coverage" NAME="0019 Coverage Results" MODIFIED="1575444899929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0022.coverage" NAME="0022 Coverage Results" MODIFIED="1575447823735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0013.coverage" NAME="0013 Coverage Results" MODIFIED="1575422097320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0028.coverage" NAME="0028 Coverage Results" MODIFIED="1575515959299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$001.coverage" NAME="001 Coverage Results" MODIFIED="1575595382456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0007.coverage" NAME="0007 Coverage Results" MODIFIED="1575357433953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0031.coverage" NAME="0031 Coverage Results" MODIFIED="1575594685852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0030.coverage" NAME="0030 Coverage Results" MODIFIED="1575594728564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0025.coverage" NAME="0025 Coverage Results" MODIFIED="1575511419175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0017.coverage" NAME="0017 Coverage Results" MODIFIED="1575440478996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1575860455007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0005.coverage" NAME="0005 Coverage Results" MODIFIED="1575862943476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0011.coverage" NAME="0011 Coverage Results" MODIFIED="1575362051961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0020.coverage" NAME="0020 Coverage Results" MODIFIED="1575444967064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$server.coverage" NAME="server Coverage Results" MODIFIED="1575852843752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other/socket/chat" />
+    <SUITE FILE_PATH="coverage/pythonProject$0008.coverage" NAME="0008 Coverage Results" MODIFIED="1575358564512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0014.coverage" NAME="0014 Coverage Results" MODIFIED="1575424952578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0023.coverage" NAME="0023 Coverage Results" MODIFIED="1575450331052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0006.coverage" NAME="0006 Coverage Results" MODIFIED="1575881899395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0003.coverage" NAME="0003 Coverage Results" MODIFIED="1575861367436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0009.coverage" NAME="0009 Coverage Results" MODIFIED="1575360233680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$00016.coverage" NAME="00016 Coverage Results" MODIFIED="1575429849301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0026.coverage" NAME="0026 Coverage Results" MODIFIED="1575512317804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0012.coverage" NAME="0012 Coverage Results" MODIFIED="1575363417442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0015.coverage" NAME="0015 Coverage Results" MODIFIED="1575427191071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0029.coverage" NAME="0029 Coverage Results" MODIFIED="1575516313563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0027.coverage" NAME="0027 Coverage Results" MODIFIED="1575512702467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0021.coverage" NAME="0021 Coverage Results" MODIFIED="1575445095506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="发送邮件 Coverage Results" MODIFIED="1575531378694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wf15732638907/FileStorage/File/2019-12" />
+    <SUITE FILE_PATH="coverage/pythonProject$0024.coverage" NAME="0024 Coverage Results" MODIFIED="1575452593691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1575595415836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$0018.coverage" NAME="0018 Coverage Results" MODIFIED="1575442897086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0004.coverage" NAME="0004 Coverage Results" MODIFIED="1575861876754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python操作三大主流数据库" />
+    <SUITE FILE_PATH="coverage/pythonProject$support.coverage" NAME="support Coverage Results" MODIFIED="1575422035530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/pythonProject$0010.coverage" NAME="0010 Coverage Results" MODIFIED="1575360881113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-279314378">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="1" />
+          <entry key="json" value="2" />
+          <entry key="md" value="1" />
+          <entry key="py" value="118" />
+          <entry key="pyi" value="2" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="118" />
+          <entry key="PythonStub" value="2" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="23" />
+          <entry key="html" value="469" />
+          <entry key="js" value="29" />
+          <entry key="md" value="8" />
+          <entry key="py" value="13006" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="469" />
+          <entry key="JavaScript" value="29" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="12994" />
+          <entry key="SQL" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0006.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="e#32#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rstriop</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>你输入的数字</find>
+      <find>/tmp/</find>
+      <find>'</find>
+      <find>测试</find>
+      <find>Thread</find>
+      <find>exitFlag</find>
+      <find />
+      <find>50</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/runoob/0001.py" />
+        <option value="$PROJECT_DIR$/runoob/0002.py" />
+        <option value="$PROJECT_DIR$/runoob/0003.py" />
+        <option value="$PROJECT_DIR$/runoob/0004.py" />
+        <option value="$PROJECT_DIR$/runoob/0005.py" />
+        <option value="$PROJECT_DIR$/runoob/0006.py" />
+        <option value="$PROJECT_DIR$/runoob/0007.py" />
+        <option value="$PROJECT_DIR$/runoob/0008.py" />
+        <option value="$PROJECT_DIR$/runoob/0009.py" />
+        <option value="$PROJECT_DIR$/runoob/0010.py" />
+        <option value="$PROJECT_DIR$/runoob/0011.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wf15732638907/FileStorage/File/2019-12/装饰器.py" />
+        <option value="$PROJECT_DIR$/runoob/0012.py" />
+        <option value="$PROJECT_DIR$/runoob/support.py" />
+        <option value="$PROJECT_DIR$/runoob/0013.py" />
+        <option value="$PROJECT_DIR$/runoob/0014.py" />
+        <option value="$PROJECT_DIR$/runoob/0015.py" />
+        <option value="$PROJECT_DIR$/runoob/00016.py" />
+        <option value="$PROJECT_DIR$/runoob/00017.py" />
+        <option value="$PROJECT_DIR$/runoob/0016.py" />
+        <option value="$PROJECT_DIR$/runoob/0017.py" />
+        <option value="$PROJECT_DIR$/runoob/0018.py" />
+        <option value="$PROJECT_DIR$/runoob/0019.py" />
+        <option value="$PROJECT_DIR$/runoob/0020.py" />
+        <option value="$PROJECT_DIR$/runoob/0021.py" />
+        <option value="$PROJECT_DIR$/runoob/movies.xml" />
+        <option value="$PROJECT_DIR$/runoob/0022.py" />
+        <option value="$PROJECT_DIR$/runoob/data.json" />
+        <option value="$PROJECT_DIR$/runoob/0023.py" />
+        <option value="$PROJECT_DIR$/runoob/0024.py" />
+        <option value="$PROJECT_DIR$/runoob/0025.py" />
+        <option value="$PROJECT_DIR$/runoob/0026.py" />
+        <option value="$PROJECT_DIR$/runoob/0027.py" />
+        <option value="$PROJECT_DIR$/runoob/0028.py" />
+        <option value="$PROJECT_DIR$/runoob/0029.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wf15732638907/FileStorage/File/2019-12/发送邮件.py" />
+        <option value="$PROJECT_DIR$/runoob/test.txt" />
+        <option value="$PROJECT_DIR$/runoob/test1.txt" />
+        <option value="$PROJECT_DIR$/runoob/0031.py" />
+        <option value="$PROJECT_DIR$/runoob/0030.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/001.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0003.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/login.html" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0004.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0005.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/static/hello.js" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/templates/name.html" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0002.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0001.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0031.py" />
+        <option value="$PROJECT_DIR$/Python操作三大主流数据库/0006.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1294" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Python操作三大主流数据库" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\Python操作三大主流数据库" />
+      <recent name="D:\pythonProject\runoob" />
+      <recent name="D:\pythonProject\全网最热Python3入门+进阶 更快上手实际开发" />
+      <recent name="D:\pythonProject\Python核心技术进阶训练篇" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.0006">
+    <configuration name="0002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python操作三大主流数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python操作三大主流数据库/0002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python操作三大主流数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python操作三大主流数据库/0003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python操作三大主流数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python操作三大主流数据库/0004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0005" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python操作三大主流数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python操作三大主流数据库/0005.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0006" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python操作三大主流数据库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python操作三大主流数据库/0006.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.0002" />
+      <item itemvalue="Python.0003" />
+      <item itemvalue="Python.0004" />
+      <item itemvalue="Python.0005" />
+      <item itemvalue="Python.0006" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0006" />
+        <item itemvalue="Python.0005" />
+        <item itemvalue="Python.0004" />
+        <item itemvalue="Python.0003" />
+        <item itemvalue="Python.0002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29f009b9-c40f-4ace-ad11-3d4b06eba969" name="Default Changelist" comment="" />
+      <created>1566294560734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566294560734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.39116204" visible="true" weight="0.23993559" />
+      <window_info id="Structure" order="1" sideWeight="0.60883796" side_tool="true" weight="0.23027375" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31131297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32700247" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" x="0" y="11" width="2560" height="1377" id="Terminal" order="11" type="WINDOWED" weight="0.29066887" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/runoob/0005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="9" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="9" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="21" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="39" lean-forward="true" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="18" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/support.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0015.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0016.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1372">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="50" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="22" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0020.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="9" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="18" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/movies.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="21" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0023.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="9" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0024.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0028.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wf15732638907/FileStorage/File/2019-12/发送邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0031.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob/0030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/001.py" />
+    <entry file="file://$PROJECT_DIR$/other/socket/chat/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/socket/chat/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/socket/client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/socket/server.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction/chapter01/01-01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/static/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/templates/name.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python37/Lib/site-packages/sqlalchemy/engine/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="84" column="29" lean-forward="true" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python操作三大主流数据库/0006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#32#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

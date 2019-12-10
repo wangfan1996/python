@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type = "text/javascript" src = "{{ url_for('static', filename = 'hello.js') }}" ></script>
+</head>
+<body style="margin:auto 200px">
+<h1>name:{{name}}</h1>
+{% if marks > 50 %}
+<h1>大于</h1>
+{% else %}
+<h1>小于</h1>
+{% endif %}
+
+<table border="1">
+    {% for key, value in result.items() %}
+        <tr>
+            <th>{{ key }}</th>
+            <td>{{ value }}</td>
+        </tr>
+    {% endfor %}
+</table>
+<hr>
+<input type="button" onclick="sayHello()" value="Say Hello">
+</body>
+</html>
