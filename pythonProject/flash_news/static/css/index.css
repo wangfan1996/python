@@ -1,0 +1,83 @@
+/*全局公共样式*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,button,textarea,p,span,th,td,video,audio{
+    margin:0;
+    padding:0;
+}
+address, caption, cite, code, dfn, em, th, var {
+    font-style:normal;
+    font-weight:normal;
+}
+a{
+    text-decoration:none;
+}
+img{
+    border:none;
+    display: block;
+}
+ol,ul,li {
+    list-style:none;
+}
+li{
+    vertical-align:top;
+}
+input, textarea, select, button {
+    font-family: 'PF';
+    border: none;
+    outline: none;
+}
+.input::-webkit-input-placeholder {
+    color: #babeca;
+}
+.input:-moz-placeholder {
+    color: #babeca;
+}
+.input:-ms-input-placeholder {
+    color: #babeca;
+}
+table {
+    border-collapse:collapse;
+}
+.clearFix:after {
+    content: ".";
+    display: block;
+    height:0;
+    clear:both;
+    visibility: hidden;
+}
+.clearFix { *zoom:1; }
+
+.nav_ul li{
+    float: left;
+    width: 64px;
+    background-color: #2aabd2;
+}
+.nav_ul li:hover{
+    background-color: #4cae4c;
+}
+.nav_ul li a{
+    display: block;
+    text-align: center;
+}
+.nav_ul li:hover a {
+    color: #fff;
+}
+
+.list-news{
+    width: 320px;
+}
+.img-content{
+    float: left;
+    width: 142px;
+    height: 190px;
+}
+.img-content img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.right-content{
+    float: right;
+}
+.right-content P{
+    margin: 30px auto;
+}

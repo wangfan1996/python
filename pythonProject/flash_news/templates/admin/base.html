@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap/css/bootstrap.css', _external=True) }}">
+    <script src="{{ url_for('static', filename='jquery-3.1.1.min.js', _external=True) }}"></script>
+    <script src="{{ url_for('static', filename='bootstrap/js/bootstrap.js', _external=True) }}"></script>
+    {% block head %}
+    <title>后台首页</title>
+    {% endblock %}
+</head>
+<body>
+
+
+<div class="col-md-3">
+    <a href="{{ url_for('index')}}" class="list-group-item">首页</a>
+    <a href="{{ url_for('admin')}}" class="list-group-item">后台首页</a>
+    <a href="{{ url_for('add')}}" class="list-group-item">新增新闻</a>
+</div>
+<div class="col-md-9">
+    <article>
+    {% block content %}
+    {% endblock %}
+</article>
+</div>
+
+
+{#其它脚本#}
+{% block extrajs %}
+{% endblock %}
+</body>
+</html>

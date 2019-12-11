@@ -1,0 +1,10 @@
+{% extends 'home_base.html' %}
+{% block content %}
+    <h1>id：{{ new_obj.id }}</h1>
+    <h1>标题：{{ new_obj.title }}</h1>
+    <img src="{{ new_obj.image }}" alt="图片">
+    <h1>作者：{{ new_obj.author }}</h1>
+    <h1>阅读数：{{ new_obj.view_count }}</h1>
+    <h1>内容：{{ new_obj.content }}</h1>
+    <h1>时间：{{ new_obj.created_at }}</h1>
+{% endblock %}

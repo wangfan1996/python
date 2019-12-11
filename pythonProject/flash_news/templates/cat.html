@@ -1,0 +1,16 @@
+{% extends 'home_base.html' %}
+{% block content %}
+    <h1>新闻类别>{{ name }}</h1>
+    {% for obj in news_list %}
+        <div class="list-news clearFix">
+            <div class="img-content">
+                <img src="{{ obj.image }}" alt="图片">
+            </div>
+            <div class="right-content">
+                <p><a href="{{ url_for('detail', pk=obj.id) }}">{{ obj.title }}</a></p>
+                <p>阅读量：{{ obj.view_count }}</p>
+                <small>{{ obj.created_at }}</small>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

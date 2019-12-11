@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css', _external=True) }}">
+    {% block head %}
+    <title>首页</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+    <nav>
+        <ul class="nav_ul clearFix">
+            <li><a href="{{ url_for('index') }}">首页</a></li>
+            <li><a href="{{ url_for('cat', name='推荐')}}">推荐</a></li>
+            <li><a href="{{ url_for('cat', name='百家')}}">百家</a></li>
+            <li><a href="{{ url_for('cat', name='本地')}}">本地</a></li>
+            <li><a href="{{ url_for('cat', name='图片')}}">图片</a></li>
+        </ul>
+    </nav>
+</header>
+{#内容#}
+<article>
+    {% block content %}
+    {% endblock %}
+</article>
+{#其它脚本#}
+{% block extrajs %}
+{% endblock %}
+</body>
+</html>
