@@ -25,7 +25,9 @@ scrapy分布式爬虫
 
         scrapy的原理
         基于scrapy的中间件开发
+
     爬取真实数据
+        文章
     scrapy突破反爬技术
     scrapy进阶
     scrapy redis分布式爬虫

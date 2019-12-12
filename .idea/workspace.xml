@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="497a8cac-a778-44c1-ac09-e30c657c3e9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapyTest/简介.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/简介.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +35,11 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,6 +50,7 @@
           <entry key="png" value="4" />
           <entry key="py" value="55" />
           <entry key="sql" value="1" />
+          <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -58,6 +60,7 @@
           <entry key="HTML" value="61" />
           <entry key="Image" value="4" />
           <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="55" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="1" />
@@ -68,12 +71,14 @@
           <entry key="css" value="344" />
           <entry key="html" value="2267" />
           <entry key="py" value="5716" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="344" />
           <entry key="HTML" value="2267" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Python" value="5716" />
         </counts>
       </usages-collector>
@@ -81,11 +86,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonProject/flash_news/flask_news.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="700">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapyTest/简介.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -130,6 +144,7 @@
         <option value="$PROJECT_DIR$/pythonProject/flash_news/forms.py" />
         <option value="$PROJECT_DIR$/pythonProject/flash_news/templates/admin/update.html" />
         <option value="$PROJECT_DIR$/pythonProject/flash_news/flask_news.py" />
+        <option value="$PROJECT_DIR$/scrapyTest/简介.txt" />
       </list>
     </option>
   </component>
@@ -178,13 +193,13 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="flash_news" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,7 +344,7 @@
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24194847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24557166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -462,13 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#34#162#0" expanded="true" />
-            <marker date="1575963749952" expanded="true" signature="410:415" ph="..." />
-            <marker date="1575963749952" expanded="true" signature="1362:1371" ph="..." />
-            <marker date="1575963749952" expanded="true" signature="1627:1636" ph="..." />
-            <marker date="1575963749952" expanded="true" signature="1890:1899" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,8 +559,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonProject/flash_news/flask_news.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="700">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest/简介.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
