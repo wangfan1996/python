@@ -23,7 +23,7 @@ class NewsForm(FlaskForm):
                         render_kw={"required": "required", "class": "form-control"}
                         )
     is_valid = SelectField(label='是否展示',
-                           choices=[(0, '不展示'), (1, '展示')],
+                           choices=[('0', '不展示'), ('1', '展示')],
                            render_kw={"required": "required", "class": "form-control"}
                            )
     submit = SubmitField('提交')

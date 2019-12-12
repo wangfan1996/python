@@ -1,10 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'admin/base.html' %}
+{% block head %}
+    <title>新闻修改页</title>
+{% endblock %}
+{% block content %}
+    <form method="post" role="form" class="form-horizontal">
+        <div class="form-group">
+            <label for="name_title" class="col-sm-2">{{ form.title.label.text }}</label>
+            <div class="col-sm-10" >{{ form.title }}</div>
+        </div>
 
-</body>
-</html>
+        <div class="form-group">
+            <label for="name_title" class="col-sm-2">{{ form.content.label.text }}</label>
+            <div class="col-sm-10">{{ form.content }}</div>
+        </div>
+
+        <div class="form-group">
+            <label for="name_types" class="col-sm-2">{{ form.types.label.text }}</label>
+            <div class="col-sm-10">{{ form.types }}</div>
+        </div>
+
+        <div class="form-group">
+            <label for="name_image" class="col-sm-2">{{ form.image.label.text }}</label>
+            <div class="col-sm-10">{{ form.image }}</div>
+        </div>
+
+{#        <div class="form-group">#}
+{#            <label for="name_is_valid" class="col-sm-2">{{ form.is_valid.label.text }}</label>#}
+{#            <div class="col-sm-10">{{ form.is_valid }}</div>#}
+{#        </div>#}
+
+        <div class="form-group">
+             {{ form.csrf_token }}
+            {{ form.submit }}
+        </div>
+    </form>
+{% endblock %}

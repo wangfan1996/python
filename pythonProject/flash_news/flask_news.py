@@ -54,14 +54,29 @@ def detail(pk):
 def admin(page=None):
     if page is None:
         page = 1
-    news_list = News.query.filter(News.is_valid == 1).paginate(page=page, per_page=3)
+    # news_list = News.query.filter(News.is_valid == 1).order_by('id').paginate(page=page, per_page=3)
+    news_list = News.query.order_by('id').paginate(page=page, per_page=3)
     return render_template('admin/index.html', news_list=news_list)
 
 
-@app.route('/update/<int:pk>')
+@app.route('/update/<int:pk>', methods=['GET', 'POST'])
 def update(pk):
     new_obj = News.query.get(pk)
-    return render_template('admin/update.html', pk=pk, new_obj=new_obj)
+    form = NewsForm(obj=new_obj)
+    if request.method == 'POST':
+        new_obj.title = form.title.data,
+        new_obj.content = form.content.data,
+        new_obj.types = form.types.data,
+        new_obj.image = form.image.data,
+        new_obj.author = random.sample(['张三', '李四', '王五', '路人甲'], 1)[0],
+        new_obj.created_at = datetime.now(),
+        new_obj.is_valid = 1
+        new_obj.view_count = random.randint(0, 100)
+        db.session.add(new_obj)
+        db.session.commit()
+        return redirect(url_for('admin'))
+
+    return render_template('admin/update.html', form=form, new_obj=new_obj)
 
 
 @app.route('/add/', methods=['GET', 'POST'])
