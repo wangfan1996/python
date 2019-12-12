@@ -1,0 +1,33 @@
+tutorial
+    安装pip install Scrapy
+    创建一个项目scrapy startproject tutorial
+    在项目的根目录运行scrapy crawl quotes
+    Python Shell    scrapy shell "http://quotes.toscrape.com/page/1/"
+    爬取并且保存文件scrapy crawl author -o authorAll.json
+    基础的联系
+
+scrapy分布式爬虫
+    环境配置和基础知识
+        正则表达式
+        深度优先和广度优先遍历算法
+        url去重策略
+
+        知名技术社区
+        知名问答网站
+        知名招聘网站
+
+        xpath + css => DATA
+
+        spider  item    item loader
+        pipeline    feed export     CrawSpider
+
+        图片验证码   ip访问评率限制    user-agent随机切换
+
+        scrapy的原理
+        基于scrapy的中间件开发
+    爬取真实数据
+    scrapy突破反爬技术
+    scrapy进阶
+    scrapy redis分布式爬虫
+    elasticsearch django实现搜索引擎
+
