@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="497a8cac-a778-44c1-ac09-e30c657c3e9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapyTest/简介.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/简介.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="6" />
+          <entry key="gitigrone" value="1" />
           <entry key="html" value="61" />
           <entry key="js" value="1" />
           <entry key="png" value="4" />
           <entry key="py" value="55" />
-          <entry key="sql" value="1" />
+          <entry key="sql" value="3" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -60,15 +61,16 @@
           <entry key="HTML" value="61" />
           <entry key="Image" value="4" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="55" />
-          <entry key="SQL" value="1" />
+          <entry key="SQL" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="344" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="2267" />
           <entry key="py" value="5716" />
           <entry key="txt" value="10" />
@@ -78,7 +80,7 @@
         <counts>
           <entry key="CSS" value="344" />
           <entry key="HTML" value="2267" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="PLAIN_TEXT" value="11" />
           <entry key="Python" value="5716" />
         </counts>
       </usages-collector>
@@ -86,20 +88,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonProject/flash_news/flask_news.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapyTest/简介.txt">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -124,7 +117,13 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,6 +144,7 @@
         <option value="$PROJECT_DIR$/pythonProject/flash_news/templates/admin/update.html" />
         <option value="$PROJECT_DIR$/pythonProject/flash_news/flask_news.py" />
         <option value="$PROJECT_DIR$/scrapyTest/简介.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -182,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,16 +194,11 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="scrapyTest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,10 +314,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.flask_news" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Python.flask_news" />
         <item itemvalue="Python.0008" />
         <item itemvalue="Python.0007" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -338,6 +333,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575949049698</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;scrapy基础练习测试&quot;&#10;&#10;This reverts commit a73aad2">
+      <created>1576144020426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576144020426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -370,8 +373,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;scrapy基础练习测试&quot;&#10;&#10;This reverts commit a73aad2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;scrapy基础练习测试&quot;&#10;&#10;This reverts commit a73aad2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pythonProject/Python操作三大主流数据库/login.html">
@@ -535,11 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="622">
           <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-            <marker date="1576116032373" expanded="true" signature="395:907" ph="..." />
-            <marker date="1576116032373" expanded="true" signature="3236:3407" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,17 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="25" column="63" lean-forward="true" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1576116032374" expanded="true" signature="189:447" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonProject/flash_news/flask_news.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -568,6 +577,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
           <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonProject/flash_news/flask_news.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
