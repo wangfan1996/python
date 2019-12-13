@@ -22,5 +22,8 @@ scrapy requests + beautifulsoup
     用bitmap方法，将访问过的url通过hash函数映射到某一位
     bloomfilter方法对bitmap进行改进，多重hash函数降低冲突
 
+字符串编码
+    8bit为一个字节
+    GB2312用两个字节表示一个汉字
 
 
