@@ -1,4 +1,5 @@
 import re
+import sys
 
 # ^开头字符必须以后面字符开头
 # .代表任意字符
@@ -22,3 +23,5 @@ if match_obj:
     print(match_obj.group(1))
     print(match_obj.group(2))
     print(match_obj.group(3))
+
+print(sys.getdefaultencoding())

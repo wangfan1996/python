@@ -25,5 +25,7 @@ scrapy requests + beautifulsoup
 字符串编码
     8bit为一个字节
     GB2312用两个字节表示一个汉字
+    unicode
+    utf-8 英文一个字节 汉字三个字节
 
 

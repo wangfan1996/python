@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="497a8cac-a778-44c1-ac09-e30c657c3e9a" name="Default Changelist" comment="Revert &quot;scrapy基础练习测试&quot;&#10;&#10;This reverts commit a73aad2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapyTest/regTest/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/regTest/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrapyTest/基础知识" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/基础知识" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$0007.coverage" NAME="0007 Coverage Results" MODIFIED="1575963368479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject/Python操作三大主流数据库" />
     <SUITE FILE_PATH="coverage/python$flask_news.coverage" NAME="flask_news Coverage Results" MODIFIED="1576114689617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject/flash_news" />
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1576224547088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyTest/regTest" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1576225409578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyTest/regTest" />
     <SUITE FILE_PATH="coverage/python$0008.coverage" NAME="0008 Coverage Results" MODIFIED="1575970057983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject/Python操作三大主流数据库" />
   </component>
   <component name="DatabaseView">
@@ -76,37 +77,40 @@
           <entry key="css" value="344" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2267" />
-          <entry key="py" value="6678" />
+          <entry key="py" value="6696" />
           <entry key="txt" value="14" />
-          <entry key="基础知识" value="462" />
+          <entry key="基础知识" value="501" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="344" />
           <entry key="HTML" value="2267" />
-          <entry key="PLAIN_TEXT" value="477" />
-          <entry key="Python" value="6678" />
+          <entry key="PLAIN_TEXT" value="516" />
+          <entry key="Python" value="6696" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyTest/基础知识">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="868">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapyTest/regTest/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="539">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,8 +163,8 @@
         <option value="$PROJECT_DIR$/pythonProject/flash_news/flask_news.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scrapyTest/简介.txt" />
-        <option value="$PROJECT_DIR$/scrapyTest/regTest/test.py" />
         <option value="$PROJECT_DIR$/scrapyTest/基础知识" />
+        <option value="$PROJECT_DIR$/scrapyTest/regTest/test.py" />
       </list>
     </option>
   </component>
@@ -392,14 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576224575131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Revert &quot;scrapy基础练习测试&quot;&#10;&#10;This reverts commit a73aad2">
+      <created>1576224733637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576224733637</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25281805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25281805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="调试" />
@@ -414,7 +425,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32975206" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32975206" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -647,17 +658,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/regTest/test.py">
+    <entry file="file://$PROJECT_DIR$/scrapyTest/基础知识">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="868">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/基础知识">
+    <entry file="file://$PROJECT_DIR$/scrapyTest/regTest/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="539">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
