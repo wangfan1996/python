@@ -1,0 +1,26 @@
+scrapy requests + beautifulsoup
+    requests beautifulsoup都是库，scrapy是框架
+    scrapy框架可以加入requests和beautifulsoup
+    scrapy基于twisted(异步IO框架)，性能是最大的优势
+    scrapy方便扩展，提供了很多内置的功能
+    scrapy内置css和xpath select非常方便，beautifulsoup最大缺陷点就是慢
+
+爬虫作用
+    搜索引擎
+    推荐引擎
+    机器学习的数据样本
+    数据分析
+
+正则表达式
+
+伯乐在线http://www.jobbole.com
+
+爬虫去重策略
+    将访问过的url保存到数据库中
+    将访问过的url保存到set中
+    url经过md5等方法哈希后保存到set中
+    用bitmap方法，将访问过的url通过hash函数映射到某一位
+    bloomfilter方法对bitmap进行改进，多重hash函数降低冲突
+
+
+
