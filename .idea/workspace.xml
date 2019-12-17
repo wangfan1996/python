@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="497a8cac-a778-44c1-ac09-e30c657c3e9a" name="Default Changelist" comment="Revert &quot;scrapy article 项目创建&quot;&#10;&#10;This reverts commit a73aad2">
-      <change afterPath="$PROJECT_DIR$/scrapyTest/article/article/utils/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapyTest/article/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyTest/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyTest/practice/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapyTest/article/article/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/article/article/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapyTest/article/article/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/article/article/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapyTest/article/article/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/article/article/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapyTest/article/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scrapyTest/article/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,18 +41,18 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cfg" value="1" />
+          <entry key="cfg" value="2" />
           <entry key="css" value="6" />
           <entry key="gitignore" value="1" />
           <entry key="gitigrone" value="1" />
@@ -63,7 +60,7 @@
           <entry key="js" value="1" />
           <entry key="png" value="4" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="90" />
+          <entry key="py" value="94" />
           <entry key="sql" value="3" />
           <entry key="txt" value="7" />
           <entry key="xml" value="1" />
@@ -75,11 +72,11 @@
           <entry key="CSS" value="6" />
           <entry key="HTML" value="61" />
           <entry key="Image" value="4" />
-          <entry key="Ini" value="1" />
+          <entry key="Ini" value="2" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="90" />
+          <entry key="Python" value="94" />
           <entry key="SQL" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -107,11 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+            <state relative-caret-position="476">
+              <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -119,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            <state relative-caret-position="-1344">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="e#194#221#0" expanded="true" />
               </folding>
@@ -132,19 +129,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/utils/common.py">
+        <entry file="file://$PROJECT_DIR$/scrapyTest/article/scrapy.cfg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="168">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -152,17 +140,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1876">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="34" />
+            <state relative-caret-position="28">
+              <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyTest/article/main.py">
+        <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="280">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -239,8 +227,8 @@
         <option value="$PROJECT_DIR$/scrapyTest/ArticleSpider/ArticleSpider/settings.py" />
         <option value="$PROJECT_DIR$/scrapyTest/article/article/items.py" />
         <option value="$PROJECT_DIR$/scrapyTest/article/article/utils/common.py" />
-        <option value="$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py" />
         <option value="$PROJECT_DIR$/scrapyTest/article/article/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py" />
       </list>
     </option>
   </component>
@@ -250,11 +238,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1928" />
+    <option name="y" value="144" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -304,14 +292,6 @@
               <item name="article" type="462c0819:PsiDirectoryNode" />
               <item name="article" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +302,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/python/pythonProject/Python操作三大主流数据库/0007.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scrapyTest/article" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scrapyTest/practice" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -513,10 +493,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-1928" y="144" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49173555" visible="true" weight="0.26811594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49173555" visible="true" weight="0.2695228" />
       <window_info id="Structure" order="1" sideWeight="0.50784475" side_tool="true" weight="0.26409018" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -530,7 +510,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32975206" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32975206" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4483146" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -777,9 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/article/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -806,34 +783,10 @@
     <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/utils/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1876">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -844,12 +797,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest/article/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        <state relative-caret-position="-1344">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="e#194#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapyTest/article/article/spiders/books_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
