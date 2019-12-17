@@ -8,7 +8,12 @@
 import scrapy
 
 
-class ArticleItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class BookItem(scrapy.Item):
+    title = scrapy.Field()
+    url = scrapy.Field()
+    author = scrapy.Field()
+    description = scrapy.Field()
+    img_src = scrapy.Field()
+    image_path = scrapy.Field()
+    create_date = scrapy.Field()
+    url_object_id = scrapy.Field()
